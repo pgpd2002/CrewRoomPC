@@ -24,4 +24,4 @@ vnc_interactive=yes
 vnc_password=Ronald
 wallpaper=https://i.ibb.co/DV10dTZ/original-c6cf64cf6e8e5d5f65d24cae89a398d0.png
 additional_components=09-x11vnc.xzm uefi.zip 
-kiosk_config=https://pgpd2002.github.io/CrewRoomPC/kiosk-config.txt
+kiosk_config=https://pgpd2002.github.io/CrewRoomPC/kiosk-config-audiofix.txt
