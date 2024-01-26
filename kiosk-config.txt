@@ -11,6 +11,7 @@ session_idle=35
 allow_popup_windows=yes
 suspend_idle=10
 standby_idle=60
+persistence=session
 removable_devices=yes
 right_mouse_click=yes
 screensaver_idle=5
