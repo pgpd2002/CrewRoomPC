@@ -25,5 +25,5 @@ vnc_interactive=yes
 vnc_password=Ronald
 wallpaper=https://pgpd2002.github.io/CrewRoomPC/NyankoWallpaper.jpg
 additional_components=09-x11vnc.xzm uefi.zip 
-kiosk_config=https://pgpd2002.github.io/CrewRoomPC/kiosk-config.txt
+kiosk_config=https://pgpd2002.github.io/CrewRoomPC/kiosk-config-audiofix.txt
 default_sound_card=1.0
