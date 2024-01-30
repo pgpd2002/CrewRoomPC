@@ -9,7 +9,6 @@ enable_file_protocol=yes
 homepage=https://pgpd2002.github.io/CrewRoomPC/
 session_idle=35
 allow_popup_windows=yes
-suspend_idle=10
 standby_idle=60
 persistence=session
 removable_devices=yes
